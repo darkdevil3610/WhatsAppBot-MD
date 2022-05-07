@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Alien-alfa/WhatsAppBot-MD /root/AlienAlfa
+RUN git clone https://github.com/darkdevil3610/WhatsAppBot-MD /root/AlienAlfa
 WORKDIR /root/AlienAlfa/
 
 RUN yarn install --no-audit
