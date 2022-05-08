@@ -11,7 +11,7 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "447405935255"
+            "value": "918089152280"
         }, 
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
@@ -64,12 +64,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "𝗚𝗼𝘂𝗿𝗮𝘃"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "𝗚𝗼𝘂𝗿𝗮𝘃"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -94,37 +94,37 @@
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://instagram.com/dark_devil_3609/"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "𝗚𝗼𝘂𝗿𝗮𝘃"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "𝗚𝗼𝘂𝗿𝗮𝘃"
         },
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://telegra.ph/file/56f641c3cf138aa7f27b2.jpg"
         },
     "IMAGE2": {
             "description": "Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://telegra.ph/file/56f641c3cf138aa7f27b2.jpg"
         },
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://instagram.com/dark_devil_3609/"
         },
     "BUTTONURL_LINK2": {
             "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://bit.ly/36RRYSF"
         },
     "BUTTONURL_OPTION1": {
             "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
@@ -134,12 +134,12 @@
     "BUTTONURL_OPTION2": {
             "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
             "required": false,
-            "value": "ʏᴏᴜᴛᴜʙᴇ"
+            "value": "website"
         },
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "--"
+            "value": "Hi bro"
         },
     "LIST_MESSAGE": {
             "description": "Footer Message Foe List Menu (leave it if you Wish to use the default)",
@@ -149,7 +149,7 @@
     "MENU_HEAD": {
             "description": "Main Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
             "required": false,
-            "value": "--"
+            "value": "Hi Bro"
         },
     "MENU_MESSAGE": {
             "description": "Main footer Message To Be Shown In Main Menu (shows when use command .menu) (leave it if you Wish to use the default)",
